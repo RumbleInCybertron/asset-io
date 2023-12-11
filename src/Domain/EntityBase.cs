@@ -1,6 +1,6 @@
 using System.Data;
 
-namespace AssetIO.Domain
+namespace Domain
 {
   public class EntityBase
   {
